@@ -9,7 +9,7 @@ Shockwave Suit mod for VRChat.
 
 - Discord: https://discord.gg/dGkTpzB3
 
-- Shockwave Avatar World: https://vrchat.com/home/launch?worldId=wrld_84306e4b-efb5-45b5-a696-ff61ad9b5d5a
+- Shockwave Avatar World: https://vrchat.com/home/world/wrld_84306e4b-efb5-45b5-a696-ff61ad9b5d5a
 
 ---
 
